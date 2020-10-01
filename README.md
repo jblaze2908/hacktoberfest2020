@@ -1,6 +1,6 @@
 
 > [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
-> This page lists links to awesome background information and links to awesome contribution possibilities.
+> This page lists links to background information and links to awesome contribution possibilities.
 
 [![Hacktoberfest 2020 logo](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)](https://benbarth.github.io/hacktoberfest-swag/)
 
@@ -111,39 +111,9 @@ Here you find projects that were made especially for hacktoberfest.
 - [hacktoberfest-status](https://github.com/niclasleonbock/hacktoberfest-status)
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
 
-## Companies participating in Hacktoberfest
-
-- [Accord](https://www.accordproject.org/events/hacktoberfest-2019/)
-- [Appwrite](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd)
-- [Aqua Security](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
-- [Circle CI](https://circleci-public.github.io/hacktoberfest/#/)
-- [Coding Blocks](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
-- [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
-- [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
-- [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
-- [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
-- [Source{d}](https://go.sourced.tech/hacktoberfest)
-
-## Nonprofits participating in Hacktoberfest
-
-- [If-Me](https://github.com/ifmeorg/ifme/labels/hacktoberfest)
-- [Oppia](https://github.com/oppia/oppia/labels/Hacktoberfest)
-
 ## Misc resources
 
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 - [Reading List](https://github.com/mattjegan/reading-list)
 
-## Contribute
-
-Contributions are welcome!
-Please read the [contribution guidelines](contributing.md) first.
-Especially have the motto "quality over quantity" in mind.
-Hacktoberfest is there to level up coding skills, not the capability to submit arbitrary files to arbitrary repositories.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Matthew Egan has waived all copyright and related or neighbouring rights to this work.
