@@ -12,7 +12,8 @@
 ## How to add a Pull Request
 
 Follow this tutorial if you need any help to adding a PR to this or any other repository.
-- [How to add a PR](https://opensource.com/article/19/7/create-pull-request-github)
+- [How to add a PR (Blog)](https://opensource.com/article/19/7/create-pull-request-github)
+- [How to add a PR (Youtube)](https://www.youtube.com/watch?v=dSl_qnWO104)
 
 ## Adding PRs to this repo
 
@@ -125,4 +126,5 @@ Here you find projects that were made especially for hacktoberfest.
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
 - [Reading List](https://github.com/mattjegan/reading-list)
+
 
