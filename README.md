@@ -9,6 +9,15 @@
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
 - [Hacktoberfest Tutorial](https://youtu.be/0mjJS1Y8wrI) - Introduction to Hacktoberfest
 
+## How to add a Pull Request
+
+Follow this tutorial if you need any help to adding a PR to this or any other repository.
+- [How to add a PR](https://opensource.com/article/19/7/create-pull-request-github)
+
+## Adding PRs to this repo
+
+You can add pull requests to this repository as well to participate in Hacktoberfest 2020. Bear in mind that all PRs must adhere to the github code of conduct and should uphold all the values of Hacktoberfest. 
+
 ## Finding issues
 
 Finding a good issue to work on takes time.
